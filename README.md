@@ -1,5 +1,5 @@
 
-## Hi! I'm Gabriel!
+## Hi! I'm Gabriel🐏!
 <br><br>
 <img src="https://i.giphy.com/media/s20gt5Rebjnva/giphy.gif" alt="xx">
 
@@ -13,7 +13,7 @@
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
 
-## Im interest in learn🕵️‍♂️
+## Im interest in learn🧙‍♂️
 <br><br>
 <a href="#" >
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
